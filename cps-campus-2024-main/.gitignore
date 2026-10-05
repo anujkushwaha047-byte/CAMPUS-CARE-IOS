@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific data
+**/xcuserdata/
+**/*.xcuserdatad/
+**/*.xcuserstate
+
+# Xcode workspace user state
+**/project.xcworkspace/xcuserdata/
+**/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+**/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# SwiftPM user resolution (often user-specific)
+**/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# Xcode breakpoints
+**/*.xcbkptlist
+
+# Xcode schemes (DEBUG/RELEASE user variants)
+**/xcshareddata/xcschemes/DEBUG_*.xcscheme
+**/xcshareddata/xcschemes/RELEASE_*.xcscheme
